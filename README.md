@@ -60,4 +60,4 @@ New python3.7 executable in /home/tina/VIAA/python-fxp/bin/python3.7
 
 - This will consume from fxp-queu and create a worker job
 
-```./bin ./bin/python rabbitmq_fxp_consumer.py```
+```./bin/python rabbitmq_fxp_consumer.py```
