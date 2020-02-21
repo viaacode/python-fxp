@@ -16,7 +16,7 @@ New python3.7 executable in /home/tina/VIAA/python-fxp/bin/python3.7
 
 ### Start the worker
 
-```./bin/celery worker -A worker_tasks -l info -E -n fxp-tinaatje2@%h --concurrency 3
+```bin/celery worker -A worker_tasks -l info -E -n fxp-tinaatje2@%h --concurrency 3
 ```
 
 
